@@ -1,0 +1,6 @@
+product_id,product_name,category_id,price
+10,Laptop,1,1000
+11,Tablet,1,500
+12,Phone,2,300
+13,Monitor,2,400
+14,Keyboard,3,100
